@@ -30,7 +30,7 @@
     "eslint-plugin-babel": "^3.3.0",
     "eslint-plugin-import": "^2.0.1",
     "nyc": "^8.0.0",
-    "remark": "^6.0.0",
+    "remark": "^6.2.0",
     "remark-cli": "^2.0.0",
     "remark-heading-gap": "^2.0.0",
     "remark-usage": "^4.0.0"
